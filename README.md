@@ -53,15 +53,9 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 Contribution Graph
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sheetal680/sheetal680/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sheetal680/sheetal680/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/sheetal680/sheetal680/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
+![Sheetal's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sheetal680&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=ffffff)
 
 ---
 
